@@ -5,7 +5,11 @@ This project features the development of a functional prototype for an **Automot
 
 The software architecture was designed under **Safety-Critical System** principles, prioritizing hardware safety and passenger integrity through proactive data bus failure detection.
 
-
+### System Demonstration
+<div align="center">
+  <img src="./diagrams/demo_simulacion.gif" width="300px" alt="Demostración Smart-BCM">
+  <p><i>Demostración técnica: Respuesta del actuador ante cambios de temperatura y alertas de diagnóstico.</i></p>
+</div
 
 ---
 

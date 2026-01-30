@@ -67,5 +67,12 @@ To comply with automotive quality standards, the following event matrix was impl
     * `ESP32Servo`
 3.  Run the simulation and manipulate the DHT22 sensor to observe the system's diagnostic response.
 
+
+
 ---
-**Developed as a professional residency preparation project for the Automotive Sector.**
+
+## Contact Details
+> **Leslye Hernandez Jimenez**
+> 
+> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6)
+> **Email**: hdezj.leslye@gmail.com

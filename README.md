@@ -7,8 +7,8 @@ The software architecture was designed under **Safety-Critical System** principl
 
 ### System Demonstration
 <div align="center">
-  <img src="./diagrams/demo_simulacion.gif" width="300px" alt="Demostración Smart-BCM">
-  <p><i>Demostración técnica: Respuesta del actuador ante cambios de temperatura y alertas de diagnóstico.</i></p>
+  <img src="./diagrams/demo_simulacion.gif" width="400px" alt="Demostración Smart-BCM">
+  <p><i>Actuator response to temperature changes and diagnostic alerts.</i></p>
 </div
 
 ---

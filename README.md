@@ -71,8 +71,10 @@ To comply with automotive quality standards, the following event matrix was impl
 
 ---
 
-## Contact Details
-> **Leslye Hernandez Jimenez**
-> 
-> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6)
-> **Email**: hdezj.leslye@gmail.com
+## Contact
+> **Leslye Hernández Jiménez**
+> *IT & Communications Engineering*
+>
+> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernandez-jimenez)
+> **Email**: [hdezj.leslye@gmail.com](mailto:hdezj.leslye@gmail.com)
+
